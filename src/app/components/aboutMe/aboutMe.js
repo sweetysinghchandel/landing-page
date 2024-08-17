@@ -2,7 +2,7 @@ import Headline from "../headline/headline";
 import ImageCard from "../imageCard/imageCard";
 import "./aboutMe.css";
 const { default: ProgressBar } = require("../progressbar/progressbar");
-import ProfilePhoto2 from "@/image/profilePhoto2.png";
+import ProfilePhoto2 from "@/image/profile-Photo2.png";
 
 const AboutMe = () => {
   return (
