@@ -1,0 +1,13 @@
+.section-title {
+  font-weight: 600;
+  font-size: 65px;
+  align-items: center;
+  color: #ffffff;
+  height: 98px;
+}
+.section-description {
+  color: #ffffff;
+  margin: 0;
+  line-height: 31px;
+  font-size: 21px;
+}

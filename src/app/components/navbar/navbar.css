@@ -1,0 +1,31 @@
+.top-nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 67px;
+  width:100%;
+}
+.logo-container {
+  color:white;
+  font-size: 48px;
+}
+.logo-container span {
+  font-weight: bold;
+  margin-left: 30px;
+}
+.top-nav-container ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top-nav-container ul li {
+  list-style: none;
+  margin: 0 23px;
+}
+.top-nav-container ul li a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+.top-nav-container ul li a:hover {
+  color: #fd6f00;
+}

@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1E1E1E;
+  padding: 0 6rem;
+  font-family: var(--font-poppins), sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+

@@ -1,0 +1,37 @@
+
+
+.social-links-container {
+  display: flex;
+  padding: 23px 80px;
+}
+
+
+.social-links {
+  display: flex;
+  justify-content: center;
+}
+
+.social-links a {
+  text-decoration: none;
+  /* padding: 10px; */
+  margin: 10px;
+  border-radius: 50%;
+}
+
+.social-links a i {
+  font-size: 2em;
+  color: white;
+  opacity: 0.9;
+}
+
+.social-links a:hover {
+  background-color: white;
+  transition: 0.5s;
+}
+
+.social-links a:hover i {
+  color: white;
+  transition: 0.5s;
+}
+
+

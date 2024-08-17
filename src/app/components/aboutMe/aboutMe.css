@@ -1,0 +1,14 @@
+.about-me-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.my-photo-container {
+    width:100%;
+}
+
+.about-me-description{
+    width:100%;
+}

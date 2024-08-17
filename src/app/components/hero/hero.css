@@ -1,0 +1,26 @@
+.hero-container {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap:100px;
+    color:#fff;
+}
+
+.hero-title {
+    font-size: 100px;
+    font-weight: bolder;
+}
+.hero-container-name{
+    color: #FD6F00;
+    font-size: 32px;
+}
+.hero-description{
+    margin-bottom: 25px;
+    font-size: 21px;
+    line-height: 31px;
+    margin-top:25px;
+    padding-right:50px;
+}
+.margin-left-150 {
+    margin-left:150px;
+}

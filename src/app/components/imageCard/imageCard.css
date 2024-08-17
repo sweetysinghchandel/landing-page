@@ -1,0 +1,22 @@
+.img-container {
+  height: 485px;
+  width: 485px;
+  border-radius: 100%;
+  background-color: white;
+  position: relative;
+  margin-top: 200px;
+  margin-bottom: 50px;
+
+}
+.img-profile {
+  position: absolute;
+  bottom: 0;
+  left:0;
+  right:0;
+  width: 485px;
+  height: 615px;
+  border-radius: 40%;
+  object-fit: cover;
+  border-bottom-color: black;
+  border-width: 5px;
+}

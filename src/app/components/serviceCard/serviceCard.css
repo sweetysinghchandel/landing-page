@@ -1,0 +1,30 @@
+.service-card-container {
+  background-color: white;
+  border-radius: 14px;
+  background-color: #f8f8f8;
+  color: #f8f8f8;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 330px;
+}
+.img-service {
+  height: 70px;
+  width: 70px;
+  margin-bottom: 30px;
+  object-fit: contain;
+  
+}
+.service-detail-container {
+}
+.service-title {
+  color: #000000;
+  font-size: 32px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+.service-description {
+  color: #000000;
+  font-size: 19px;
+}
